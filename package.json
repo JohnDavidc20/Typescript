@@ -1,5 +1,9 @@
 {
+
   "name": "productos",
+
+  "name": "biblioteca",
+
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -55,6 +59,10 @@
     "@adonisjs/cors": "^2.2.1",
     "@adonisjs/lucid": "^21.6.0",
     "@vinejs/vine": "^3.0.0",
+
+
+    "pg": "^8.15.6",
+
     "reflect-metadata": "^0.2.2"
   },
   "hotHook": {
@@ -64,4 +72,8 @@
     ]
   },
   "prettier": "@adonisjs/prettier-config"
+
 }
+
+}
+
